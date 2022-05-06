@@ -1,4 +1,4 @@
-# Multi Step Form with Progress Bar using jQuery and CSS3
+# Registration form using jQuery and CSS3
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/iamevs/pen/KKQwOqg](https://codepen.io/iamevs/pen/KKQwOqg).
 
